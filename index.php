@@ -19,7 +19,7 @@ include 'view/head.php'; ?>
     <main class="main">
       <div class="container-fluid">
 
-Hola mundo
+Hola mundo XD
 
       </div>
     </main>
