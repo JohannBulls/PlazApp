@@ -1,7 +1,7 @@
 <footer class="app-footer">
   <div>
     <a href="https://github.com/JohannBulls">
-    <span>&copy;</a> 2019 Johann Amaya</span>
+    <span>&copy;</a> 2019 PlazApp</span>
   </div>
 </footer>
 <!-- Bootstrap js-->
