@@ -118,40 +118,6 @@ include 'view/head.php'; ?>
       <div class="modal-body">
         <div class="d-flex justify-content-center p-4">
           <i class="fas fa-user fa-8x"></i></div>
-        <!-- 
-        <div class="container-fluid justify-content-center">
-          <div class="col-md p-3">
-            <form action="https://www.google.com/search?q=traductor&oq=tr&aqs=chrome.0.69i59j69i61j69i60l3j69i57.813j0j9&sourceid=chrome&ie=UTF-8" method="post">
-              <div class="col">
-                <div class="col-3">
-                  <label for="name">Nombre </label>
-                </div>
-                <div class="col-9">
-                  <input type="text" id="Nombre" class="form-control text-capitalize" placeholder="Nombre" required />
-                </div>
-              </div>
-              <div class="input-group mb-3">
-                <label for="Apellido">Apellido </label>
-                <input type="text" id="Apellido" class="form-control text-capitalize" placeholder="Apellido" required />
-              </div>
-              <div class="input-group mb-3">
-                <label for="Correo">Correo </label>
-                <input type="mail" id="Correo" class="form-control text-capitalize" placeholder="example@mail.com" required />
-              </div>
-              <div class="input-group mb-3">
-                <label for="Telefono">Telefono</label>
-                <input type="number" id="Telefono" class="form-control text-capitalize" placeholder="Telefono" required />
-              </div>
-              <div class="input-group mb-3">
-                <label for="Barrio">Barrio</label>
-                <input type="text" id="Barrio" class="form-control text-capitalize" placeholder="Barrio" required />
-              </div>
-              <div class="input-group mb-3">
-                <label for="Contraseña">Contraseña</label>
-                <input type="password" id="password" class="form-control text-capitalize" placeholder="********" required />
-              </div>
-          </div>
-        </div> -->
         <form action="https://www.google.com/search?q=traductor&oq=tr&aqs=chrome.0.69i59j69i61j69i60l3j69i57.813j0j9&sourceid=chrome&ie=UTF-8" method="post">
           <div class="form-group">
             <div class="form-row">

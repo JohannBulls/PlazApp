@@ -12,15 +12,15 @@
               <i class="nav-icon fas fa-home"></i> Inicio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="typography.html">
+            <a class="nav-link" href="./view/Free/Reseta.php">
               <i class="nav-icon fas fa-book"></i> Reseta</a>
           </li>
           <li class="nav-item nav-dropdown">
-            <a class="nav-link " href="#">
+            <a class="nav-link " href="./view/Repartidor/Repartidor.php">
               <i class="nav-icon fas fa-bicycle"></i> Domiciliario</a>
           </li>
           <li class="nav-item nav-dropdown">
-            <a class="nav-link " href="#">
+            <a class="nav-link " href="./view/Free/info.php">
               <i class="nav-icon fas fa-info-circle"></i> Informacion</a>
           </li>
         </ul>
