@@ -8,7 +8,7 @@
             <li class="nav-title"></li>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="colors.html">
+            <a class="nav-link" href="./index.php">
               <i class="nav-icon fas fa-home"></i> Inicio</a>
           </li>
           <li class="nav-item">
