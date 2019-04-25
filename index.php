@@ -36,64 +36,64 @@ include 'view/head.php'; ?>
       <div class="container-fluid justify-content-center">
         <div class="row">
           <div class="col-sm-6 col-md p-3">
-            <img src="assets/img/productos/1.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#exampleModalCenter" />
+            <img src="assets/img/productos/1.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#Registar" />
           </div>
           <div class="col-sm-6 col-md p-3">
-            <img src="assets/img/productos/2.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#exampleModalCenter" />
+            <img src="assets/img/productos/2.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#Registar" />
           </div>
           <div class="col-sm-6 col-md p-3">
-            <img src="assets/img/productos/3.png" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#exampleModalCenter" />
+            <img src="assets/img/productos/3.png" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#Registar" />
           </div>
           <div class="col-sm-6 col-md p-3">
-            <img src="assets/img/productos/4.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#exampleModalCenter" />
-          </div>
-        </div>
-      </div>
-      <div class="container-fluid justify-content-center">
-        <div class="row">
-          <div class="col-sm-6 col-md p-3">
-            <img src="assets/img/productos/5.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#exampleModalCenter" />
-          </div>
-          <div class="col-sm-6 col-md p-3">
-            <img src="assets/img/productos/6.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#exampleModalCenter" />
-          </div>
-          <div class="col-sm-6 col-md p-3">
-            <img src="assets/img/productos/7.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#exampleModalCenter" />
-          </div>
-          <div class="col-sm-6 col-md p-3">
-            <img src="assets/img/productos/8.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#exampleModalCenter" />
+            <img src="assets/img/productos/4.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#Registar" />
           </div>
         </div>
       </div>
       <div class="container-fluid justify-content-center">
         <div class="row">
           <div class="col-sm-6 col-md p-3">
-            <img src="assets/img/productos/9.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#exampleModalCenter" />
+            <img src="assets/img/productos/5.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#Registar" />
           </div>
           <div class="col-sm-6 col-md p-3">
-            <img src="assets/img/productos/10.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#exampleModalCenter" />
+            <img src="assets/img/productos/6.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#Registar" />
           </div>
           <div class="col-sm-6 col-md p-3">
-            <img src="assets/img/productos/11.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#exampleModalCenter" />
+            <img src="assets/img/productos/7.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#Registar" />
           </div>
           <div class="col-sm-6 col-md p-3">
-            <img src="assets/img/productos/12.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#exampleModalCenter" />
+            <img src="assets/img/productos/8.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#Registar" />
           </div>
         </div>
       </div>
       <div class="container-fluid justify-content-center">
         <div class="row">
           <div class="col-sm-6 col-md p-3">
-            <img src="assets/img/productos/13.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#exampleModalCenter" />
+            <img src="assets/img/productos/9.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#Registar" />
           </div>
           <div class="col-sm-6 col-md p-3">
-            <img src="assets/img/productos/14.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#exampleModalCenter" />
+            <img src="assets/img/productos/10.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#Registar" />
           </div>
           <div class="col-sm-6 col-md p-3">
-            <img src="assets/img/productos/15.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#exampleModalCenter" />
+            <img src="assets/img/productos/11.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#Registar" />
           </div>
           <div class="col-sm-6 col-md p-3">
-            <img src="assets/img/productos/16.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#exampleModalCenter" />
+            <img src="assets/img/productos/12.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#Registar" />
+          </div>
+        </div>
+      </div>
+      <div class="container-fluid justify-content-center">
+        <div class="row">
+          <div class="col-sm-6 col-md p-3">
+            <img src="assets/img/productos/13.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#Registar" />
+          </div>
+          <div class="col-sm-6 col-md p-3">
+            <img src="assets/img/productos/14.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#Registar" />
+          </div>
+          <div class="col-sm-6 col-md p-3">
+            <img src="assets/img/productos/15.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#Registar" />
+          </div>
+          <div class="col-sm-6 col-md p-3">
+            <img src="assets/img/productos/16.jpg" alt="Cebolla Larga" width="90%" class="rounded-lg" data-toggle="modal" data-target="#Registar" />
           </div>
         </div>
       </div>
@@ -106,11 +106,11 @@ include 'view/head.php'; ?>
 </html>
 
 <!-- Modal -->
-<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+<div class="modal fade" id="Registar" tabindex="-1" role="dialog" aria-labelledby="RegistarTitle" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalCenterTitle">Crea tu cuenta</h5>
+        <h5 class="modal-title" id="RegistarTitle">Crea tu cuenta</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -118,7 +118,7 @@ include 'view/head.php'; ?>
       <div class="modal-body">
         <div class="d-flex justify-content-center p-4">
           <i class="fas fa-user fa-8x"></i></div>
-        <form action="https://www.google.com/search?q=traductor&oq=tr&aqs=chrome.0.69i59j69i61j69i60l3j69i57.813j0j9&sourceid=chrome&ie=UTF-8" method="post">
+        <form action="view/Free/index.php" method="post">
           <div class="form-group">
             <div class="form-row">
               <div class="form-group col-md-6">
@@ -131,7 +131,7 @@ include 'view/head.php'; ?>
               </div>
             </div>
             <label for="Correo">Correo </label>
-            <input type="mail" id="Correo" class="form-control" placeholder="Example@mail.com" required />
+            <input type="email" id="Correo" pattern="[^ @]*@[^ @]*" class="form-control" placeholder="Example@mail.com" required />
           </div>
           <div class="form-row">
             <div class="form-group col-md-6">
