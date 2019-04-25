@@ -16,13 +16,25 @@
           <i class="nav-icon fas fa-book"></i> Reseta</a>
       </li>
       <li class="nav-item nav-dropdown">
-        <a class="nav-link " href="../Repartidor/Repartidor.php">
+        <a class="nav-link nav-dropdown-toggle" href="#">
           <i class="nav-icon fas fa-bicycle"></i> Domiciliario</a>
+        <ul class="nav-dropdown-items">
+          <li class="nav-item">
+            <a class="nav-link" href="../Repartidor/Pedidos.php">
+              <i class="nav-icon icon-note"></i>Pedidos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="../Repartidor/Historial.php">
+              <i class="nav-icon fas fa-history"></i> Historial
+            </a>
+          </li>
+        </ul>
       </li>
       <li class="nav-item nav-dropdown">
         <a class="nav-link " href="../Premire/Info.php">
           <i class="nav-icon fas fa-info-circle"></i> Informacion</a>
       </li>
+
     </ul>
   </nav>
   <button class="sidebar-minimizer brand-minimizer" type="button"></button>
