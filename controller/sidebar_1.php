@@ -1,40 +1,39 @@
 <div class="sidebar">
-      <nav class="sidebar-nav">
-        <ul class="nav">
-          <li class="nav-item">
-            <a class="nav-link "  data-toggle="modal" data-target="#Perfil">
-              <i class="nav-icon far fa-user-circle"></i> Perfil
-            </a>
-            <li class="nav-title"></li>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="./../../index.php">
-              <i class="nav-icon fas fa-home"></i> Inicio</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="./../../view/Free/Reseta.php">
-              <i class="nav-icon fas fa-book"></i> Reseta</a>
-          </li>
-          <li class="nav-item nav-dropdown">
-            <a class="nav-link " href="./../../view/Repartidor/Repartidor.php">
-              <i class="nav-icon fas fa-bicycle"></i> Domiciliario</a>
-          </li>
-          <li class="nav-item nav-dropdown">
-            <a class="nav-link " href="./../../view/Free/info.php">
-              <i class="nav-icon fas fa-info-circle"></i> Informacion</a>
-          </li>
-        </ul>
-      </nav>
-      <button class="sidebar-minimizer brand-minimizer" type="button"></button>
-    </div>
+  <nav class="sidebar-nav">
+    <ul class="nav">
+      <li class="nav-item">
+        <a class="nav-link " data-toggle="modal" data-target="#Perfil">
+          <i class="nav-icon far fa-user-circle"></i> Johann
+        </a>
+      <li class="nav-title"></li>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="index.php">
+          <i class="nav-icon fas fa-home"></i> Inicio</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="../Premire/Reseta.php">
+          <i class="nav-icon fas fa-book"></i> Reseta</a>
+      </li>
+      <li class="nav-item nav-dropdown">
+        <a class="nav-link " href="../Repartidor/Repartidor.php">
+          <i class="nav-icon fas fa-bicycle"></i> Domiciliario</a>
+      </li>
+      <li class="nav-item nav-dropdown">
+        <a class="nav-link " href="../Premire/Info.php">
+          <i class="nav-icon fas fa-info-circle"></i> Informacion</a>
+      </li>
+    </ul>
+  </nav>
+  <button class="sidebar-minimizer brand-minimizer" type="button"></button>
+</div>
 
-    
 <!-- Modal -->
 <div class="modal fade" id="Perfil" tabindex="-1" role="dialog" aria-labelledby="PerfilTitle" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="PerfilTitle">Crea tu cuenta</h5>
+        <h5 class="modal-title" id="PerfilTitle">Cuenta</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -42,43 +41,44 @@
       <div class="modal-body">
         <div class="d-flex justify-content-center p-4">
           <i class="fas fa-user fa-8x"></i></div>
-        <form action="https://www.google.com/search?q=traductor&oq=tr&aqs=chrome.0.69i59j69i61j69i60l3j69i57.813j0j9&sourceid=chrome&ie=UTF-8" method="post">
+        <form action="index.php" method="post">
           <div class="form-group">
             <div class="form-row">
               <div class="form-group col-md-6">
                 <label for="name">Nombre </label>
-                <input type="text" id="Nombre" class="form-control text-capitalize" placeholder="Nombre" required />
+                <input type="text" id="Nombre" class="form-control text-capitalize" value="Johann" required />
               </div>
               <div class="form-group col-md-6">
-                <label for="Apellido">Apellido </label>
-                <input type="text" id="Apellido" class="form-control text-capitalize" placeholder="Apellido" required />
+                <label for="Apellido">Apellidos </label>
+                <input type="text" id="Apellido" class="form-control text-capitalize" value="Amaya lopez" required />
               </div>
             </div>
             <label for="Correo">Correo </label>
-            <input type="mail" id="Correo" class="form-control" placeholder="Example@mail.com" required />
+            <input type="mail" id="Correo" class="form-control" value="Johannpez99@gmail.com" required />
           </div>
           <div class="form-row">
             <div class="form-group col-md-6">
               <label for="Telefono">Telefono</label>
-              <input type="number" id="Telefono" class="form-control text-capitalize" placeholder="Telefono" required />
+              <input type="number" id="Telefono" class="form-control text-capitalize" value="3222799262" required />
             </div>
             <div class="form-group col-md-6">
               <label for="Barrio">Barrio</label>
-              <input type="text" id="Barrio" class="form-control text-capitalize" placeholder="Barrio" required />
+              <input type="text" id="Barrio" class="form-control text-capitalize" value="Bonanza" required />
             </div>
           </div>
           <div class="form-row">
             <div class="form-group col-md-6">
               <label for="Contraseña">Contraseña</label>
-              <input type="password" id="password" class="form-control " placeholder="********" required /></div>
+              <input type="password" id="password" class="form-control " value="********" required /></div>
             <div class="form-group col-md-6">
               <label for="Fecha">Fecha de nacimiento </label>
-              <input type="date" id="Fecha" class="form-control " required />
+              <input type="date" id="Fecha" class="form-control" placeholder="11-14-1999" />
             </div>
           </div>
       </div>
       <div class="modal-footer">
-        <button type="submit" class="btn btn-success">Registrarte</button>
+        <a href="../../index.php"><button type="button" class="btn btn-outline-danger">Cerrar sesion</button></a>
+        <button type="submit" class="btn btn-success">Actualizar</button>
       </div>
       </form>
     </div>
