@@ -13,7 +13,7 @@
       </li>
       <li class="nav-item">
         <a class="nav-link" href="../Premire/Reseta.php">
-          <i class="nav-icon fas fa-book"></i> Reseta</a>
+          <i class="nav-icon fas fa-book"></i> Receta</a>
       </li>
       <li class="nav-item nav-dropdown">
         <a class="nav-link nav-dropdown-toggle" href="#">
