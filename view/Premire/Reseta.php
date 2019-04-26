@@ -78,7 +78,6 @@ include '../../controller/head_1.php'; ?>
           </div>
         </div>
       </div>
-  </div>
   </main>
   </div>
   <?php
